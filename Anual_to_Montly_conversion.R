@@ -55,7 +55,7 @@ write.csv(df, "Final_Working_Files/Monthly_Oil_Consumption.csv", row.names=FALSE
 
 
 
-### Tinkering with some the base of the loop
+### Tinkering with the base of the loop
 clm <- list(colnames(annual_data))
 m1 <- td(ts_adv ~ 1, to = "monthly", method = "denton-cholette")
 # m3 <- td(ts_adv ~ ts_mbm)
