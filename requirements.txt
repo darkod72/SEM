@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+plotly
+matplotlib
+seaborn
+scikit-learn
+mysql-connector-python
+parsel
+requests_html
+requests
+semopy
+statsmodels
